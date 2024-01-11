@@ -270,3 +270,8 @@ Wide styles
 		border-bottom: 0;
 	}
 }
+
+/* task1 */
+#buttonTask1 {
+	display: none;
+}
