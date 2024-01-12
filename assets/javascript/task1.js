@@ -9,3 +9,4 @@ function showButton() {
 function hideImage() {
     imageTask1.style.display = 'none';
 }
+/* I got most of the information from chat GPT and "tried" on my own but failed :) */
