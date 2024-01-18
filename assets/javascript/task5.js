@@ -41,4 +41,4 @@ function my_function(){
 
 }
 
-/* idk why it isn't working but i got this from my javascript study, it's under boh */
+/* idk why it isn't working but i got this from my javascript study, it's under nnls */

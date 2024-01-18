@@ -26,10 +26,14 @@
 					<li><a href="#">Nav Link 6</a></li>
 					<li><a href="#">Nav Link 7</a></li>
 					<li><a href="clear.html">CLEAR</a></li>
+					<li><button id="changeTextButton">Change Text</button></li>
 					<!-- Buttons for Task 3 and Task 4 should be placed here -->
 					
 				</ul>
 			</div>
+		</div>
+		<div id="directions">
+			<p>Basic directions</p>
 		</div>
 		<div class="content">
 			<div class="container">
@@ -76,7 +80,12 @@
 
 					<h3>Task 2 - The Table</h3>
 					<!-- Buttons for this task should be entered before the table tag. -->
-					
+
+					<div>
+						<button id="redButton" class="btn btn-danger" onclick="changeColor()">Red</button>
+						<button id="greenButton" class="btn btn-danger" onclick="changeColor()">Green</button>
+						<button id="blueButton" class="btn btn-danger" onclick="changeColor()">Blue</button>
+					</div>
 					
 					<table class="table table-striped">
 						<thead>
@@ -135,6 +144,8 @@
 							<td colspan="2"><button>Submit</button></td>
 						</tr>
 					</table>
+
+
 					
 					
 				</div>
